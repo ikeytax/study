@@ -16,5 +16,5 @@ Boostcamp 2020 이키택 팀 스터디
 | 12/17 | 김종은 |  Rest API vs GrahqQL : 우리 프로젝트에서는 어땠는지                               |
 | 12/17 | 김학준 |                                           |
 | 12/17 | 오지훈 |  |
-| 12/17 | 조찬영 |                            |
+| 12/17 | 조찬영 | Webpack Eject vs Overriding                           |
 
