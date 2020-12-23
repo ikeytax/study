@@ -14,7 +14,7 @@ Boostcamp 2020 이키택 팀 스터디
 | 날짜  | 발표자 | 발표 주제                                                 |
 | ----- | ------ | --------------------------------------------------------- |
 | 12/17 | 김종은 |  [Rest API vs GrahqQL : 우리 프로젝트에서는 어땠는지](https://www.notion.so/Rest-API-vs-GraphQL-0b2f109e044c448db8269dcee2de4ded)                               |
-| 12/17 | 김학준 |  Apollo Client 캐시 관리 기법             |
+| 12/17 | 김학준 |  [Apollo Client 캐시 관리 기법](https://codingjuny.tistory.com/56)             |
 | 12/17 | 오지훈 | [Apollo 프로젝트 셋팅 과정](https://www.notion.so/Server-b40cc4e3a57f45c0bc6e5d7ee182232e) |
 | 12/17 | 조찬영 | [Webpack Eject vs Overriding](https://chanyeong.com/blog/post/42)                           |
 
