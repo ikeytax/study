@@ -23,4 +23,4 @@ Boostcamp 2020 이키택 팀 스터디
 | 12/28 | 김종은 | javascript의 event loop                  |
 | 12/28 | 김학준 |             |
 | 12/28 | 오지훈 | javascript와 비동기 |
-| 12/28 | 조찬영 | 브라우저 렌더링 과정 |
+| 12/28 | 조찬영 | [브라우저 렌더링 과정](https://chanyeong.com/blog/post/43) |
