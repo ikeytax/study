@@ -31,3 +31,10 @@ Boostcamp 2020 이키택 팀 스터디
 | 12/31 | 김학준 | [React Virtual DOM](https://codingjuny.tistory.com/60)|
 | 12/31 | 오지훈 | JavaScript의 Execution Context |
 | 12/31 | 조찬영 | [JavaScript는 왜 싱글쓰레드일까?](https://chanyeong.com/blog/post/44) |
+
+| 날짜  | 발표자 | 발표 주제                                                 |
+| ----- | ------ | --------------------------------------------------------- |
+| 01/04 | 김종은 |          |
+| 01/04 | 김학준 | |
+| 01/04 | 오지훈 | |
+| 01/04 | 조찬영 | |
