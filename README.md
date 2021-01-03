@@ -37,4 +37,4 @@ Boostcamp 2020 이키택 팀 스터디
 | 01/04 | 김종은 |          |
 | 01/04 | 김학준 | |
 | 01/04 | 오지훈 | this란? |
-| 01/04 | 조찬영 | Apollo Client를 사용한 로컬  |
+| 01/04 | 조찬영 | [Apollo Client를 사용한 로컬](https://chanyeong.com/blog/post/45)  |
