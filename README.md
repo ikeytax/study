@@ -34,7 +34,7 @@ Boostcamp 2020 이키택 팀 스터디
 
 | 날짜  | 발표자 | 발표 주제                                                 |
 | ----- | ------ | --------------------------------------------------------- |
-| 01/04 | 김종은 | Closure         |
+| 01/04 | 김종은 | [Closure](https://www.notion.so/Closure-4602ce2fec3544a69c3a979e1731f58d)         |
 | 01/04 | 김학준 | |
 | 01/04 | 오지훈 | [this란?](https://www.notion.so/This-29d1838ed2fc46279c9c4551416063a3) |
 | 01/04 | 조찬영 | [Apollo Client를 사용한 로컬](https://chanyeong.com/blog/post/45)  |
