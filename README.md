@@ -44,4 +44,4 @@ Boostcamp 2020 이키택 팀 스터디
 | 01/11 | 김종은 |         |
 | 01/11 | 김학준 | prototype |
 | 01/11 | 오지훈 | REST API란?  |
-| 01/11 | 조찬영 | Apollo Client 토큰 재발급 |
+| 01/11 | 조찬영 | [Apollo Client 토큰 재발급](https://chanyeong.com/blog/post/47) |
