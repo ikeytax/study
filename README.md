@@ -42,6 +42,6 @@ Boostcamp 2020 이키택 팀 스터디
 | 날짜  | 발표자 | 발표 주제                                                 |
 | ----- | ------ | --------------------------------------------------------- |
 | 01/11 | 김종은 |         |
-| 01/11 | 김학준 | prototype |
+| 01/11 | 김학준 | [Prototype](https://hackmd.io/xM2UFVw5Q0aBIK1icCaUMQ?view) |
 | 01/11 | 오지훈 | [CORS 란?](https://www.notion.so/CORS-3e49a421b2a943ea827bf9bf1f285338)  |
 | 01/11 | 조찬영 | [Apollo Client 토큰 재발급](https://chanyeong.com/blog/post/47) |
